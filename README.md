@@ -1,5 +1,9 @@
 # HW_1
 
+Description:
+
+In this assignement we refactored existing code to ensure that the codebase follows accessibility standards. I started by eliminating as many <div> tags as I could. Renaming them with different semantic tags such as section, article, header, etc. After editing the html I consolidated the CSS into some general classes for different types of content on the site. 
+
 Link to application: https://aungy5.github.io/HW_1/
 
 Link to Github Repository: https://github.com/aungy5/HW_1
